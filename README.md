@@ -24,7 +24,7 @@ Javascript and releated topics:
 * [Javascript JSON & JSON Objects — Moving Data Around](https://www.udacity.com/blog/2021/08/javascript-json-json-objects-moving-data-around.html)
 * [Javascript Events — Handling All The Things](https://www.udacity.com/blog/2021/08/javascript-events-handling-all-the-things.html)
 
-<center><a href="https://www.udacity.com/blog/author/michael-sattler"><img src="./i/udacity.png" width="50%" border="1"></a></center>
+<p align="center" width="100%"><a href="https://www.udacity.com/blog/author/michael-sattler"><img src="./i/udacity.png" width="50%" border="1"></a></p>
 
 ## Documenting novel, self-modifying data charting for a pipeline
 
@@ -32,7 +32,7 @@ To graphically illustrate battery performance on custom Android biometric securi
 
 * *[gnuplot ~ a non-trivial introduction](https://github.com/mickeys/non_trivial_gnuplot/blob/master/a_real_world_gnuplot_introduction/README.md)* illustrates self-modifying GNU Plot code to process the battery telementry data.
 
-<center><img src="https://raw.githubusercontent.com/mickeys/non_trivial_gnuplot/master/a_real_world_gnuplot_introduction/figures/9.png" width="50%"></center>
+<p align="center" width="100%"><img src="https://raw.githubusercontent.com/mickeys/non_trivial_gnuplot/master/a_real_world_gnuplot_introduction/figures/9.png" width="50%"></p>
 
 ## Developing on-board telemetry & internal documentation
 
@@ -52,7 +52,7 @@ While traveling around China — working with the semiconductor fabrication hous
 * [pinger.sh](https://github.com/mickeys/non_trivial_gnuplot/blob/master/graphing_ping/pinger.sh?ts=4) is the network testing and data capture code I used to  present live, actionable data to hotel IT teams.
 * *[Triaging networking issues in real-time](https://github.com/mickeys/non_trivial_gnuplot/blob/master/graphing_ping/README.md)* is the technical write-up I did to explain to other travelers how to debug similar issues.
 
-<center><img src="https://raw.githubusercontent.com/mickeys/non_trivial_gnuplot/master/graphing_ping/graphing_ping.gif" width="50%"></center>
+<p align="center" width="100%"><img src="https://raw.githubusercontent.com/mickeys/non_trivial_gnuplot/master/graphing_ping/graphing_ping.gif" width="50%"></p>
 
 ## Documenting coding and tools
 
@@ -70,7 +70,7 @@ After confronting "challenging" requests from a client using antiquated word-pro
 
 From 1995, my book *[Internet TV with CU-SeeMe](https://sattlers.org/mickey/CU-SeeMe/internetTVwithCUSeeMe/index.html)* (ISBN 1-57521-006-1) (available on [Amazon](https://www.amazon.com/Internet-TV-Cu-Seeme-Michael-Sattler/dp/1575210061)), as it went to the publisher. The web content is a bit dated (as it appeared in 1995), not reformatted for mobile devices, and I have to disclaim the quality of the images, but there it is :-)
 
-<center><img src="./i/cu-seeme.jpg" width="30%"></center>
+<p align="center" width="100%"><img src="./i/cu-seeme.jpg" width="30%"></p>
 
 ## Miscellany
 
