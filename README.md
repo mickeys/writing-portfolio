@@ -6,7 +6,7 @@
 
 ## Subject-matter expert, for Javascript & database programmers
 
-For the learning company Udacity [I wrote several series](https://www.udacity.com/blog/author/michael-sattler) of posts as a subject-matter expert targetting novice programmers. Each has a different theme to make the dry technical reading a bit more engaging and accessible. 
+For the learning company Udacity [I wrote several series](https://www.udacity.com/blog/author/michael-sattler) of posts as a subject-matter expert targeting novice programmers. Each has a different theme to make the dry technical reading a bit more engaging and accessible. 
 
 <!-- <center><img src="./i/udacity.png" width="50%"></center> -->
 
@@ -40,7 +40,7 @@ While working as lead quality assurance engineer on custom Android biometric aut
 
 Distance and urgency spurred me to write on-board telemetry within the constraints of the older operating system, how to remotely capture this time-based ephemeral information, how to combine all these data sets without worry of loss from collision, how to programmatically process and trim the data, and lastly, how to automatically create informative charts. 
 
-The first entry here is my write-up on how I wrote self-modifying GNU Plot code to meet my needs, the following two are examples of how I write and document code.
+The first entry here is my write-up on how I wrote self-modifying GNU Plot code to meet my needs. The following two are examples of how I write and document code.
 
 * [battstat.sh](https://github.com/mickeys/my_android_utilities/blob/master/battstat.sh?ts=4) is the deployed code (and in-line documentation).
 * [speed.sh](https://github.com/mickeys/my_android_utilities/blob/master/speed.sh?ts=4) is related code I developed and documented, comparing the permutations of data transfer speed between these Android devices, SD cards, and eMMC. This code included an extensible system of adding new tests and the creation of a non-compressible video as a transfer source.
