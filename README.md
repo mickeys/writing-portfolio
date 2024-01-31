@@ -4,7 +4,10 @@
 
 **NON-DISCLOSURES AND ENCUMBERED WRITING:** Much of what I'm paid to write becomes proprietary information as soon as it leaves my hands (and is therefore unavailable for sharing here). What follows are NDA-unencumbered exceptions, a real-world "portfolio" of sorts.
 
-**MY ONLINE CV:** My _curriculum vitae_ may be found at [https://www.linkedin.com/in/mickeysattler/](https://www.linkedin.com/in/mickeysattler/).
+<!-- http://wbwip.com/wbw/emailencoder.html -->
+<!-- https://codepen.io/jaymaymo/pen/OgoBYM -->
+
+**MORE:** My _curriculum vitae_ may be found at [https://www.linkedin.com/in/mickeysattler/](https://www.linkedin.com/in/mickeysattler/) and I may be contacted at <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a>.
 
 ## Topics hidden by NDA
 
