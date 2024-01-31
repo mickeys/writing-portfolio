@@ -1,8 +1,18 @@
 # Mickey Sattler — A Technical Writing Portfolio
 
-**INTRODUCTION:** I'm a long-time software and quality assurance engineer who's had primary responsibility for producing technical documentation for my entire career. From API references, sample code and "Hello, World" demonstration apps, to white papers and online articles, the joy of explaning technical concepts and processes has been my priviledge.
+**INTRODUCTION:** I'm a long-time software and quality assurance engineer who's had primary responsibility for producing both internal and public-facing technical documentation throughout my entire career. From API references, sample code, and "Hello, World" demonstration apps, to white papers and online articles, the joy of explaining technical concepts and processes has been my privilege.
 
-**NON-DISCLOSURES AND ENCUMBERED WRITING:** Much of what I'm paid to write becomes proprietary information as soon as it leaves my hands (and is therefore unavailable for sharing externally). What follows are unencumbered exceptions, a real-world "portfolio" of sorts.
+**NON-DISCLOSURES AND ENCUMBERED WRITING:** Much of what I'm paid to write becomes proprietary information as soon as it leaves my hands (and is therefore unavailable for sharing here). What follows are NDA-unencumbered exceptions, a real-world "portfolio" of sorts.
+
+**MY ONLINE CV:** My _curriculum vitae_ may be found at [https://www.linkedin.com/in/mickeysattler/](https://www.linkedin.com/in/mickeysattler/).
+
+## Topics hidden by NDA
+
+As noted, most work products created for clients are unavailable for sharing. Some of the topics about which I've written that fall into this category include:
+
+* **Generative artificial intelligence (AI) with retrieval-augmented generation (RAG)** — engineering team onboarding documentation explaining features, evaluating large-language models, and code samples, and corresponding topology and flowcharts.
+* **Blockchain** — high-level non-technical user transaction workflow.
+* **SMS middleware** — C-suite and engineering white- and yellow-papers with code samples and API documentation.
 
 ## Subject-matter expert, for Javascript & database programmers
 
